@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate **Data Science** enthusiast curre
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, R
+- **Languages**: Python, R, JavaScript, HTML, CSS, Node.js
 - **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, ggplot2
-- **Tools**: Git, GitHub, Jupyter, VS Code, RStudio, PyCharm
-- **Interests**: Data Science, Machine Learning, Data Visualization, Statistical Analysis
+- **Tools**: Git, GitHub, Jupyter, VS Code, RStudio, PyCharm, Bootstrap
+- **Interests**: Data Science, Machine Learning, Data Visualization, Statistical Analysis, Web Development
 
 <!---## 📈 GitHub Stats
 

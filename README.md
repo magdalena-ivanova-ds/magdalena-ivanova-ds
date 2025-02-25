@@ -17,9 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science** enthusiast curre
 --->
 ## 🌍 Let’s Connect!
 
-<!---
-- LinkedIn: [Magdalena Ivanova](https://www.linkedin.com/in/magdalena-ivanova/)
---->
+- LinkedIn: [Magdalena Ivanova](https://www.linkedin.com/in/magdalena-ivanova-1b4a9a352/)
 - Email: [magdalena.ivanova.ds@gmail.com](magdalena.ivanova.ds@gmail.com)
 
 Feel free to check out my repositories, open an issue, or contribute to my projects. I’m always open to collaboration!
